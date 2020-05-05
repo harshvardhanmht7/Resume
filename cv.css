@@ -1,0 +1,28 @@
+img{
+  height: 40%;
+  width: 40%;
+
+}
+
+table{
+
+
+  text-align: center;
+}
+.edu th,.edu tr,.edu td,.edu{
+  border-collapse: collapse;
+border: 1px solid black;
+
+}
+.edu td{
+  padding-left: 30px;
+}
+
+.tech td{
+  padding-left: 30px;
+
+}
+
+.tab{
+  margin-left: 2em;
+}
